@@ -9,7 +9,7 @@ console.log("hello again")
 console.log("hello")
 console.log(window.myDynamicVariable)
 
-// Append the button to the div
+// Append the button to the div 
 widgetDiv.appendChild(button);
 
 // Add an event listener to the button
