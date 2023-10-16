@@ -6,6 +6,7 @@ var button = document.createElement("button");
 button.innerHTML = "Display Date and Time";
 console.log("hello")
 console.log("hello again")
+console.log("hello")
 console.log(window.myDynamicVariable)
 
 // Append the button to the div
