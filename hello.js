@@ -5,9 +5,9 @@ var widgetDiv = document.createElement("div");
 var button = document.createElement("button");
 button.innerHTML = "Display Date and Time";
 console.log("hello")
-if(window.myDynamicVariable){
-  console.log(window.myDynamicVariable)
-}
+
+console.log(window.myDynamicVariable)
+
 // Append the button to the div
 widgetDiv.appendChild(button);
 
