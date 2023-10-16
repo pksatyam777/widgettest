@@ -4,7 +4,7 @@ var widgetDiv = document.createElement("div");
 // Create a new button element
 var button = document.createElement("button");
 button.innerHTML = "Display Date and Time";
-
+console.log("hello")
 // Append the button to the div
 widgetDiv.appendChild(button);
 
